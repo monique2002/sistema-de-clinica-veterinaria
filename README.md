@@ -1,2 +1,2 @@
 # sistema-de-clinica-veterinaria
-<img src="\.sistema-de-clinica-veterinaria\img\imgarca.png"/>
+https://github.com/monique2002/sistema-de-clinica-veterinaria/issues/2#issue-815843048
