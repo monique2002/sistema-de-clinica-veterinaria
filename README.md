@@ -1,2 +1,3 @@
 # sistema-de-clinica-veterinaria
-https://github.com/monique2002/sistema-de-clinica-veterinaria/issues/2#issue-815843048
+![imgarca](https://user-images.githubusercontent.com/79596886/109064955-c759fe80-76c9-11eb-956a-31cf56f60be3.png)
+
